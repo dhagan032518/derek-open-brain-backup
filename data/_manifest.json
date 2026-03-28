@@ -1,0 +1,14 @@
+{
+  "backed_up_at": "2026-03-28T17:57:51.083761+00:00",
+  "tables": [
+    {
+      "table": "thoughts",
+      "rows": 1
+    },
+    {
+      "table": "agent_action_log",
+      "rows": 0
+    }
+  ],
+  "total_rows": 1
+}
