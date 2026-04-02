@@ -1,14 +1,14 @@
 {
-  "backed_up_at": "2026-04-01T05:18:27.128894+00:00",
+  "backed_up_at": "2026-04-02T04:58:29.156729+00:00",
   "tables": [
     {
       "table": "thoughts",
-      "rows": 1
+      "rows": 3
     },
     {
       "table": "agent_action_log",
       "rows": 0
     }
   ],
-  "total_rows": 1
+  "total_rows": 3
 }
